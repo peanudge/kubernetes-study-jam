@@ -35,3 +35,13 @@ Dev Ops best practices는 어플리케이션 배포 시나리오를 관리하기
 5. [Continuous Delivery with Jenkins in Kubernetes Engine](https://www.cloudskillsboost.google/focuses/1104?parent=catalog)
 
 이번 랩에서는 우리는 쿠버네티스 엔진속에서 실행되는 젠킨스를 사용해서 CD pipeline을 설정하고 배포를 진행하게 됩니다.
+
+## Schedule
+
+| Quest                                                 | Content | Date             |
+| ----------------------------------------------------- | ------- | ---------------- |
+| Introduction to Docker                                |         | 2022-06-29(예정) |
+| Kubernetes Engine: Qwik Start                         |         |                  |
+| Orchestrating the Cloud with Kuberntes                |         |                  |
+| Managing Deployments Using Kubernetes Engine          |         |                  |
+| Continuous Delivery with Jenkins in Kubernetes Engine |         |                  |
